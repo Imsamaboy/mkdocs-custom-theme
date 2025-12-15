@@ -14,8 +14,8 @@ https://github.com/Imsamaboy/mkdocs-custom-theme/tree/main/indaclub/theme
 
 2. Успешное выполнение команд из пайплайна
 
-...
+![Пример](imgs/3.2.png) 
 
 3. Сайт с кастомной темой, автоматически опубликованный на `gh-pages`
 
-...
+![Пример](imgs/3.1.png)
