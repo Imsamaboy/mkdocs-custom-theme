@@ -1,0 +1,7 @@
+.idea
+.venv/
+node_modules/
+indaclub/site/
+site/
+__pycache__/
+.DS_Store

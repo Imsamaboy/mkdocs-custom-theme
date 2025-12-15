@@ -1,0 +1,36 @@
+site_name: INDACLUB
+site_url: https://Imsamaboy.github.io/indaclub
+site_author: Imsamaboy
+site_description: A digital hub for discovering places, events, and vibes around you.
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Vision: vision.md
+
+theme:
+  name: null
+  custom_dir: theme/
+
+watch:
+  - theme
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Imsamaboy
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Sfelshtyn
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - codehilite
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - toc:
+      permalink: true
